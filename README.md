@@ -1,4 +1,4 @@
-# TUM Heilbronn Discord Bot
+# Discord Bot on Heroku Template
 
 ## Before Start
 
